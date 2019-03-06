@@ -1,3 +1,3 @@
 # CSS-Blog
 
-<img src="blogscreen.png">
+<img src="CSS-Blog/blogscreen.PNG">
